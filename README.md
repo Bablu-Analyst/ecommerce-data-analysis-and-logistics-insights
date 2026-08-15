@@ -76,7 +76,7 @@ Performed in `Pandas_Analysis.ipynb` before any analysis:
 
 A 6-panel EDA snapshot was generated with Matplotlib/Seaborn covering order status distribution, payment type split, review score distribution, monthly order volume, top 10 categories by order count, and item price distribution.
 
-![EDA Snapshot](images/olist_eda_snapshot.png)
+![EDA Snapshot]("C:\Users\Dell\OneDrive\Desktop\E-Commerce-Performance-Logistics-Analysis\Images\olist_eda_snapshot.png")
 
 ---
 
@@ -111,14 +111,14 @@ KPIs: **Gross Revenue 15.74M** · **Total Orders 98K** · **Avg Order Ticket 103
 
 Visuals: Total Orders by Month, Monthly Revenue Trend, Sales by Customer State, Revenue by Category, Revenue by Payment Type, Freight Burden by Category.
 
-![Sales & Revenue Dashboard](images/dashboard_sales_overview.PNG)
+![Sales & Revenue Dashboard]("C:\Users\Dell\OneDrive\Desktop\E-Commerce-Performance-Logistics-Analysis\Images\dashboard_sales_overview.PNG")
 
 ### Page 2 — Delivery, Logistics & Customer Experience
 KPIs: **Avg Delivery 18.79 days** · **Late Delivery % 9.88** · **Avg Review Score 4.20** · **Customers Count 33.32K** · **Avg Freight % 29.40**
 
 Visuals: Avg Estimated vs Avg Actual Days in Customer States, Avg Score by Category, Seller Performance table (Revenue Rank, Orders Fulfilled, Avg Review, Total Revenue), and Order-to-Delivery Funnel Timing by state (approval-to-carrier vs carrier-to-customer hours).
 
-![Delivery & Logistics Dashboard](images/dashboard_delivery_logistics.PNG)
+![Delivery & Logistics Dashboard]("C:\Users\Dell\OneDrive\Desktop\E-Commerce-Performance-Logistics-Analysis\Images\dashboard_delivery_logistics.PNG")
 
 ---
 
