@@ -76,7 +76,7 @@ Performed in `Pandas_Analysis.ipynb` before any analysis:
 
 A 6-panel EDA snapshot was generated with Matplotlib/Seaborn covering order status distribution, payment type split, review score distribution, monthly order volume, top 10 categories by order count, and item price distribution.
 
-![EDA Snapshot]("C:\Users\Dell\OneDrive\Desktop\E-Commerce-Performance-Logistics-Analysis\Images\olist_eda_snapshot.png")
+![EDA Snapshot](olist_eda_snapshot.png)
 
 ---
 
