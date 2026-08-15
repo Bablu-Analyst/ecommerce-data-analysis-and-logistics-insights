@@ -37,10 +37,12 @@ This project uses the **Brazilian E-Commerce Public Dataset by Olist**, a real (
 │   ├── q13_co_purchase.csv
 │   ├── q14_delivery_funnel.csv
 │   └── q15_freight_burden.csv
-├── images/                                              # Dashboard & EDA screenshots (used in this README)
-│   ├── dashboard_sales_overview.png
-│   ├── dashboard_delivery_logistics.png
-│   └── olist_eda_snapshot.png
+├── License
+├── Pandas_Analysis_py
+├── Pandas_Analysis_HTML                                         
+│── dashboard_sales_overview.png
+│── dashboard_delivery_logistics.png
+│── olist_eda_snapshot.png
 └── README.md
 ```
 
