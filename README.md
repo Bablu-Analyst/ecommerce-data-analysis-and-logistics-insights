@@ -118,7 +118,7 @@ KPIs: **Avg Delivery 18.79 days** · **Late Delivery % 9.88** · **Avg Review Sc
 
 Visuals: Avg Estimated vs Avg Actual Days in Customer States, Avg Score by Category, Seller Performance table (Revenue Rank, Orders Fulfilled, Avg Review, Total Revenue), and Order-to-Delivery Funnel Timing by state (approval-to-carrier vs carrier-to-customer hours).
 
-![Delivery & Logistics Dashboard]("C:\Users\Dell\OneDrive\Desktop\E-Commerce-Performance-Logistics-Analysis\Images\dashboard_delivery_logistics.PNG")
+![Delivery & Logistics Dashboard](dashboard_delivery_logistics.PNG)
 
 ---
 
@@ -161,5 +161,6 @@ The #1-ranked seller (SP, 1,124 orders) holds a strong 4.14 average review, but 
 
 ## 👤 Author
 
-**Github:**[@Bablu-Analyst](https://github.com/Bablu-Analyst)
+**Github:**[@Bablu-Analyst](https://github.com/Bablu-Analyst).
+
 **linkedin:**[Bablu-Yadav](https://www.linkedin.com/in/bablu-yadav-62b625330?utm_source=share_via&utm_content=profile&utm_medium=member_android)
