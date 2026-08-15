@@ -111,7 +111,7 @@ KPIs: **Gross Revenue 15.74M** · **Total Orders 98K** · **Avg Order Ticket 103
 
 Visuals: Total Orders by Month, Monthly Revenue Trend, Sales by Customer State, Revenue by Category, Revenue by Payment Type, Freight Burden by Category.
 
-![Sales & Revenue Dashboard]("C:\Users\Dell\OneDrive\Desktop\E-Commerce-Performance-Logistics-Analysis\Images\dashboard_sales_overview.PNG")
+![Sales & Revenue Dashboard](dashboard_sales_overview.PNG)
 
 ### Page 2 — Delivery, Logistics & Customer Experience
 KPIs: **Avg Delivery 18.79 days** · **Late Delivery % 9.88** · **Avg Review Score 4.20** · **Customers Count 33.32K** · **Avg Freight % 29.40**
